@@ -5,6 +5,8 @@ public class Contacts {
     int image;
     String name;
 
+
+    //
     public Contacts(int image, String name) {
         this.image = image;
         this.name = name;
